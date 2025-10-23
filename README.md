@@ -1,2 +1,2 @@
-# Phishing-Simulation
-Conducting a real Phishing Simulation
+# Project Report: Phishing Simulation Campaign
+As part of NymousTechnologies’ ongoing efforts to strengthen organisational cybersecurity awareness and resilience, a Phishing Simulation Campaign was launched targeting employees in the Sales, Marketing, and IT departments. The objective of this campaign was to evaluate the effectiveness of the prior phishing awareness training and to measure improvements in employee vigilance, response behavior, and reporting practices.
